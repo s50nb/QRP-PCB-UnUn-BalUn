@@ -20,7 +20,7 @@ BOM:
 ![Schematic](Images/QRP_PCB-UnUn_BalUn_Schematic.PNG)
 
 ## PCB
-![PCB](Images/sm-black_top.PNG)
+![PCB](Images/sm_black_top.png)
 
 
 
