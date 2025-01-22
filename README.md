@@ -17,7 +17,7 @@ BOM:
 ![Render](Images/QRP_PCB-UnUn_BalUn.PNG)
 
 ## Schematic
-![Schematic](/Images/QRP_PCB-UnUn_BalUn_Schematic.png)
+![Schematic](Images/QRP_PCB-UnUn_BalUn_Schematic.PNG)
 
 
 
