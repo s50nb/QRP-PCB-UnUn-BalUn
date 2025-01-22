@@ -14,10 +14,10 @@ BOM:
 - 0.3mm(28AWG) or 0.5mm(24AWG) enameled copper wire (As long as you can wind 14 turns around the toroid, any size you have will do actually)
 
 ## 3D Render
-![Render](EFHW unun/Images/QRP_PCB-UnUn_BalUn.png)
+![Render](/Images/QRP_PCB-UnUn_BalUn.png)
 
 ## Schematic
-![Schematic](EFHW unun/Images/QRP_PCB-UnUn_BalUn_Schematic.png)
+![Schematic](/Images/QRP_PCB-UnUn_BalUn_Schematic.png)
 
 
 
