@@ -8,7 +8,7 @@ I have also added STEP files for those of you who would like to 3d print differe
 
 BOM:
 
-- 1x FT50-43 toroid
+- 1x FT50-43 ferrite toroid
 - 1x 100nf 3kV ceramic THT capacitor 
 - 1x BNC Right Angle PCB Jack Through Hole Bulkhead Rear Mount 50 Ohm Isolated (Amphenol 031-5486 for instance)
 - 0.3mm(28AWG) or 0.5mm(24AWG) enameled copper wire (As long as you can wind 14 turns around the toroid, any size you have will do actually)
