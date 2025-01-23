@@ -6,6 +6,8 @@ The main point of portable QRP operation is to be as light as possible, especial
 
 For EFHW you can stack the toroids and wind 21 turn on them with a tap at 3 turn for the RF connection. This should in theory give better efficiency and so not wasted power for heating. This is specially important for qrp radios do to low power output.
 
+For those interested theres alot said about it here [SOTA Reflector efhw debate](https://reflector.sota.org.uk/t/a-sota-centric-end-fed-half-wave-antenna-part-1/24756/11)
+
 I have also added STEP files for those of you who would like to 3d print different enclosures. 
 
 BOM:
