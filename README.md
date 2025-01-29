@@ -4,7 +4,7 @@
 
 The main point of portable QRP operation is to be as light as possible, especially for those of us who enjoy SOTA and POTA activations. Its based off a well known design (If I knew who the original designer was I would credit him on the design). Modified to work both as a UnUn for EFHW and random wire antennas, as well as a 1:1 or 4:1 BalUn for regular or OCF dipoles or even loops if desired. 
 
-For EFHW you can stack the toroids and wind 21 turn on them with a tap at 3 turn for the RF connection. This should in theory give better efficiency and so not wasted power for heating. This is specially important for qrp radios do to low power output.
+For EFHW you can stack the toroids and wind 21 turn on them with a tap at the third turn for the RF connection. This should in theory give better efficiency and so not wasted power for heating. This is specially important for qrp radios do to low power output.
 
 For those interested theres alot said about it here [SOTA Reflector efhw debate](https://reflector.sota.org.uk/t/a-sota-centric-end-fed-half-wave-antenna-part-1/24756/11)
 
